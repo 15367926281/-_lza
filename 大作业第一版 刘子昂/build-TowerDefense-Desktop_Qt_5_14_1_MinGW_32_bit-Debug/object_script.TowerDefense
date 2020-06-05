@@ -1,0 +1,13 @@
+main.o
+mainwindow.o
+towerposition.o
+tower.o
+waypoint.o
+enemy.o
+bullet.o
+plistreader.o
+qrc_resource.o
+moc_mainwindow.o
+moc_tower.o
+moc_enemy.o
+moc_bullet.o
