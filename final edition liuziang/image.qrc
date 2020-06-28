@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/tower3.png</file>
+        <file>image/Buytower2.png</file>
+        <file>image/Buytower1.png</file>
+        <file>image/tower4.png</file>
+        <file>image/ExplosionEffect1.png</file>
+        <file>image/ExplosionEffect2.png</file>
+        <file>image/ExplosionEffect3.png</file>
+        <file>image/ExplosionEffect4.png</file>
+        <file>image/ExplosionEffect5.png</file>
+        <file>image/ExplosionEffect6.png</file>
+        <file>image/ExplosionEffect7.png</file>
+        <file>image/tower2.png</file>
+        <file>image/tower2base.png</file>
+        <file>image/obstacles.png</file>
+        <file>image/tower1.png</file>
+        <file>image/tower1base.png</file>
+        <file>image/beach.png</file>
+        <file>image/home.png</file>
+        <file>image/monster1.png</file>
+        <file>image/monster2.png</file>
+        <file>image/monster3.png</file>
+        <file>image/monster4.png</file>
+        <file>image/monster5.png</file>
+        <file>image/SelectionBox.png</file>
+        <file>image/Shells0.png</file>
+        <file>image/Shells1.png</file>
+        <file>image/Shells2.png</file>
+        <file>image/Shells3.png</file>
+        <file>image/StoneBrick.png</file>
+        <file>image/UpgradeBut1.png</file>
+        <file>image/Buytower3.png</file>
+        <file>image/Buytower4.png</file>
+    </qresource>
+</RCC>
